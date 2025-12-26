@@ -1,0 +1,6 @@
+aiohttp
+requests
+Pillow
+PyPDF2
+python-dotenv
+colorlog
