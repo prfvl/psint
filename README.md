@@ -80,5 +80,7 @@ python main.py footprint user@oksbi
 
 This tool is designed for educational purposes, security research, and authorized defensive testing only. The author is not responsible for any misuse of this tool.
 
-```
+
+## side note - the canon.jpg file is just for testing, please ignore it. it'll be removed in a later version.
+
 
